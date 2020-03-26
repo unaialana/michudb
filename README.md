@@ -1,1 +1,3 @@
 # michudb
+
+Michu DB es un proyecto a largo plazo que tiene el objetivo de construir una base de datos que recoja distintas ligas de fútbol. En la actualidad solo cuenta con una clasificación de La Liga Santander desarrollada en HTML y CSS. Además de ampliar la gama de ligas y ofrecer una biblioteca de jugadores y equipos con sus respectivas estadísticas, el objetivo de este proyecto es automatizar la base de datos para que sea actualizada al finalizar cada jornada. Cualquier aportación, sugerencia o mejora de código es bienvenida ya que mi principal objetivo es que sea un proyecto llevado a cabo por aficionados del fútbol.
