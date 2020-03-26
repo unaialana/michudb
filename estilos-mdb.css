@@ -1,0 +1,140 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   width: 100%;
+   box-sizing: border-box;
+  }
+  
+  body {
+   font-family: 'Titillium Web', sans-serif;
+   background-color: rgb(255, 255, 255);
+  }
+
+/* Michu DB */
+
+#laliga {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 200px;
+   height: 200px;
+}
+
+.clasificacion {
+   background-color: rgb(37, 40, 42);
+   box-sizing: content-box;
+   width: 80%;
+   margin: auto;
+   margin-bottom: 80px;
+   border-top: 4px outset rgb(146, 218, 236);
+   padding: 12px;
+   font-family: 'Raleway', 'Trebuchet MS';
+}
+
+.equipo-box {
+   background-color: white;
+   box-sizing: border-box;
+   border-top: 2px outset rgb(146, 218, 236);
+   width: 100%;
+   margin: auto; 
+   display: table;
+   padding: 24px;
+}
+
+.encabezado-clasif {
+   background-color: rgb(146, 218, 236);
+   box-sizing: border-box;
+   width: 100%;
+   margin: auto;
+   padding: 22px;
+   display: table;
+}
+
+.posicion {
+   display: table-cell;
+   vertical-align: middle;
+   padding-left: 4px;
+   padding-right: 12px;
+   width: 10%;
+   min-width: 45px;
+   text-align: center;
+}
+
+.equipo {
+   display: table-cell;
+   vertical-align: middle;
+   padding-left: 20px;
+   padding-right: 4px;
+   width: 40%;
+}
+
+.puntos {
+   display: table-cell;
+   vertical-align: middle;
+   padding-left: 4px;
+   padding-right: 10px;
+   width: 7.5%;
+   min-width: 30px;
+   text-align: center;
+}
+
+.partidos-jugados {
+  display: table-cell;
+  vertical-align: middle;
+  width: 7.5%;
+  min-width: 30px;
+  text-align: center;
+}
+
+.partidos-empatados {
+  display: table-cell;
+  vertical-align: middle;
+  width: 7.5%;
+  min-width: 30px;
+  text-align: center;
+}
+
+.partidos-ganados {
+  display: table-cell;
+  vertical-align: middle;
+  width: 7.5%;
+  min-width: 30px;
+  text-align: center;
+}
+
+.partidos-perdidos {
+  display: table-cell;
+  vertical-align: middle;
+  width: 7.5%;
+  min-width: 30px;
+  text-align: center;
+}
+
+.goles-favor {
+  display: table-cell;
+  vertical-align: middle;
+  width: 7.5%;
+  min-width: 30px;
+  text-align: center;
+}
+
+.goles-contra {
+  display: table-cell;
+  vertical-align: middle;
+  width: 7.5%;
+  min-width: 30px;
+  text-align: center;
+}
+
+.encabezado-txt {
+  display: inline;
+  vertical-align: top;
+  font-size: 16px;
+  color: rgb(37, 40, 42);
+  line-height: 1.5;
+}
+
+.equipo img {
+  height: 25px;
+  width: 25px;
+}
